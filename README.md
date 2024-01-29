@@ -50,7 +50,7 @@ pause
 
 Para usar este script, simplemente ejecute el archivo .bat y siga las instrucciones en pantalla para ingresar el nombre de la carpeta deseada. El script creará la estructura de carpetas y el archivo .Rproj en la ubicación especificada. 
 
->Tip: puedes usar un alias para ejecutar el archivo .bat
+>Tip: puedes usar un alias para ejecutar el archivo .bat desde la cmd
 
 
 
