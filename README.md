@@ -25,7 +25,7 @@ if not exist %targetpath% (
     mkdir %targetpath%/output
     mkdir %targetpath%/rsc
 
-# Aquí puedes añadir, quitar o modificar las carpetas dentro del proyecto. 
+REM Aquí puedes añadir, quitar o modificar las carpetas dentro del proyecto. 
 
 ) else (
     echo La carpeta ya existe en %targetpath%
@@ -33,7 +33,7 @@ if not exist %targetpath% (
 
 echo "Creating .Rproj file..."
 
-# Parámetros para crear el Rproject
+REM Parámetros para crear el Rproject
 (
 echo Version: 1.0
 echo RestoreWorkspace: Default
